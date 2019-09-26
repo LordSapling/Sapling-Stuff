@@ -20,3 +20,9 @@ The player chatacter is simply just the rod. Which will try to assist the ball i
 5. The main obstacles of this game is the other holes. If a player puts the ball into the wrong hole, the player will lose 1 health point.
 6. One item in this game could be some kind of power up that is already given at the start to the player. This power up could help cover some holes in order to make your task to get the ball in the right hole easier.
 7. As of now, there is no special features in this game.
+
+### Note to Self
+9-26-2019
+On this day we made a physical prototype of the game. We need to create the "doo dads" that move the ramp up and down with player imput. Step 1 is to make one first. We know we are using mouse and keyboard, so no matterwhta platform we ultamilty release the game we have to have a way to control it on the computer. We need to make a control so we can test the game.
+Commonly games use "wasd" or the arrows keys, so maybe "w" is up, and "s" is down, for arrows, up is up, down is down, for a mouse, left and right click could also work. 
+In the interest of moving on quickly, we are just going to use "wasd" and arrow keys.
